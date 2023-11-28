@@ -1,0 +1,14 @@
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\handler\DeleteUserFunction.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\handler\GetUserListFunction.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\layer\service\APIGatewayService.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\handler\GetUserListByQueryFunction.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\layer\model\ResponseMessage.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\layer\service\APIGatewayServiceImpl.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\layer\model\User.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\handler\UpdateUserFunction.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\handler\GetUserFunction.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\layer\service\DynamoDBServiceImpl.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\handler\CreateUserFunction.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\layer\service\AmazonDynamoDBConnect.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\layer\service\DynamoDBService.java
+E:\Documents\WORK\Epam\upamers-java-backend\upamers-java-backend\DynamoDBApp\src\main\java\layer\model\RequestBody.java
