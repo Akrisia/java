@@ -1,0 +1,9 @@
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\GetAllChats.deps.json
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\GetAllChats.runtimeconfig.json
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\GetAllChats.pdb
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\AWSSDK.Core.dll
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\AWSSDK.DynamoDBv2.dll
+E:\Documents\WORK\Epam\dotnet\web-sockets\GetAllChats\bin\Release\net6.0\publish\GetAllChats.dll
