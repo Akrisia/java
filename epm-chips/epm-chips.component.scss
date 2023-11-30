@@ -1,0 +1,29 @@
+.chips {
+  display: flex;
+  align-items: center;
+  padding: 4px;
+  border: 1px solid #6168E4;
+  border-radius: 20px;
+  margin-right: 5px;
+  cursor: pointer;
+  color: #1F1F26;
+  font: 16;
+  user-select: none;
+
+  &.editable {
+    background-color: #fff;
+    cursor: pointer;
+  }
+
+  &.active {
+    border-color: #6168E4;
+    color: #EBEEFF;
+  }
+
+  .chip-image {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    border-radius: 50%;
+  }
+}
