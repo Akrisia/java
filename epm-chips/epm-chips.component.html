@@ -1,5 +1,13 @@
-<div class="chips">
+<div
+  class="chips"
+  [ngClass]="{ 'active': isActive, 'editable': isEditable }"
+  (click)="onChipClick()"
+  (keyup.enter)="onChipClick()"
+  (keydown.enter)="onChipClick()"
+  tabindex="0"
+>
   <img *ngIf="chips" [src]="'../../../../assets/icons/' + chips.toLowerCase() + '.svg'" alt="{{ chips }}" class="chip-image" />
   {{ chips }}
-
+  <img *ngIf="isEditable && isActive" [src]="'../../../../assets/icons/close.svg'" alt="Delete" class="chip-image" />
+  <img *ngIf="isEditable && !isActive" [src]="'../../../../assets/icons/plus.svg'" alt="Add" class="chip-image" />
 </div>

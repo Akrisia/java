@@ -1,29 +1,33 @@
 .chips {
   display: flex;
   align-items: center;
-  padding: 4px;
-  border: 1px solid #6168E4;
+  border: 1px solid #9AA0FE;
   border-radius: 20px;
-  margin-right: 5px;
-  cursor: pointer;
+  margin-right: 12px;
+  padding-right: 16px;
   color: #1F1F26;
-  font: 16;
-  user-select: none;
+  background-color: #fff;
 
   &.editable {
-    background-color: #fff;
     cursor: pointer;
+    padding-right: 0px;
   }
 
   &.active {
     border-color: #6168E4;
-    color: #EBEEFF;
+    background-color: #EBEEFF;
   }
 
   .chip-image {
-    width: 20px;
-    height: 20px;
-    margin-right: 5px;
+    width: 32px;
+    height: 32px;
+    margin: 4px 12px 4px 4px;
     border-radius: 50%;
+  }
+
+  .chip-edit {
+    width: 16px;
+    height: 16px;
+    margin: 12px 12px 12px;
   }
 }

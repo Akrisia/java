@@ -18,7 +18,10 @@ export class EpmChipsComponent {
   @Output() editChipsStatus: EventEmitter<string> = new EventEmitter<string>();
 
   onChipClick(): void {
-    !this.isActive;
+  if (this.isEditable) {
+    this.isActive = !this.isActive;
+    this.editChipsStatus.emit(this.chips);
   }
+}
 
 }
